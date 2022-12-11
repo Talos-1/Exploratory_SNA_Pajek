@@ -1,5 +1,5 @@
 # Exploratory_SNA_Pajek
-Contains exercises from Exploratory Social Network Analysis with Pajek 1st Edition (2005) by Wouter de Nooy, Andrej Mrvar, Vladimir Batagelj. Written in `Pajek 5.16`.
+Contains exercises from Exploratory Social Network Analysis with Pajek 3rd Edition (2018) by Wouter de Nooy, Andrej Mrvar, Vladimir Batagelj. Written in `Pajek 5.16`.
 
 ## Chapters
 
@@ -15,3 +15,4 @@ Contains exercises from Exploratory Social Network Analysis with Pajek 1st Editi
 10. Ranking
 11. Genealogies and Citations
 12. Blockmodels
+13. Random Graph Networks
